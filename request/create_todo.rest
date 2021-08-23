@@ -1,0 +1,14 @@
+POST http://localhost:3001/api/todo
+Content-Type: application/json
+
+{
+    "content": "no te olvides de las gallinas"
+}
+
+###
+
+POST http://localhost:3001/api/todo
+Content-Type: application/json
+
+{
+}
